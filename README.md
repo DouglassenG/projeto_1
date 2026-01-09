@@ -14,7 +14,7 @@ Ele resolve o problema de criar presença digital simples, servindo como exercí
 
 ## 🖼️ Demonstração Visual
 
-*(Espaço reservado para um print da tela. Ex: Uma imagem da página renderizada)*
+https://projeto-1-silk-tau.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
